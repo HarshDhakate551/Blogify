@@ -1,5 +1,5 @@
 const jwt = require("jsonwebtoken");
-const secret = "1234$vikas@chaudhari$1234";
+const secret = "Harsh$Authenticate";
 
 const createToken = (user) => {
   const payload = {
